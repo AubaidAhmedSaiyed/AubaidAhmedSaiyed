@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Aubaid Ahmed Saiyed</h1>
 <h3 align="center">A Software Eng Enthusiast - Looking forward to learn things and solve real world problems </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AubaidAhmedSaiyed&label=Profile%20views&color=0e75b6&style=flat" alt="AubaidAhmedSaiyed" /> </p>
@@ -48,7 +49,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AubaidAhmedSaiyed&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AubaidAhmedSaiyed&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AubaidAhmedSaiyed&theme=blue_green" height="180em" />
-</div>="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="aubaidsaiyed12" height="30" width="40" /></a></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -75,10 +76,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/AubaidAhmedSaiyed">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AubaidAhmedSaiyed&theme=2077" height="180em" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AubaidAhmedSaiyed&theme=blue_green" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AubaidAhmedSaiyed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AubaidAhmedSaiyed&theme=2077" height="180em" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AubaidAhmedSaiyed&theme=blue_green" height="180em" />
 </div>
