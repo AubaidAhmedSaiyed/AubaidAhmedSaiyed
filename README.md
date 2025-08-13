@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AubaidAhmedSaiyed&theme=dark_lover" alt="AubaidAhmedSaiyed" /></a> </p>
 
-- 🌱 I’m currently learning **Programming language: JAVA | Web Development | DSA **
+- 🌱 I’m currently learning - Programming language: JAVA | Web Development | DSA 
 
 - 📫 How to reach me **aubaidsaiyed12@gmail.com - aubaidahmed6@gmail.com**
 - 👨‍💻 All of my projects are available at **This Account**
-- 🤝Collaborate **I’m looking to collaborate on various projects that have potential to do impact in real world with professionals | remote companies .**
+- 🤝Collaborate : I’m looking to collaborate on various projects that have potential to do impact in real world with professionals | remote companies .
 
 <div> <a href="https://www.linkedin.com/in/aubaid-ahmed-saiyed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/AubaidAhmedSaiyed" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
