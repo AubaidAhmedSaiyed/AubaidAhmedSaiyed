@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AubaidAhmedSaiyed&theme=dark_lover" alt="AubaidAhmedSaiyed" /></a> </p>
 
-- 🌱 I’m currently learning - Programming language: JAVA | Web Development | DSA 
+- 🌱 I’m currently learning - JAVA | Web Development | DSA | System Design | Cloud | AI/ML
 
 - 📫 How to reach me **aubaidsaiyed12@gmail.com - aubaidahmed6@gmail.com**
 - 👨‍💻 All of my projects are available at **This Account**
