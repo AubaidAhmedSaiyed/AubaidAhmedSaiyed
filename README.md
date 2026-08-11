@@ -24,6 +24,11 @@
 ### 🚀 Open Source Contributions
 
 <!--START_MERGED_PRS-->
+- [feat: Add changelog-release-notes-agent template](https://github.com/Lamatic/AgentKit/pull/339)
+- [Fix/ingestion file paths](https://github.com/madhav2348/ss_ai/pull/33)
+- [fix: connect-queue-to-pipeline (Activate screenshot processing pipeline with background worker)](https://github.com/madhav2348/ss_ai/pull/29)
+- [fix:staff dashboard](https://github.com/AubaidAhmedSaiyed/Vector-AI/pull/5)
+- [Fix Navbar UI and Alignment ](https://github.com/TejasS1233/en-git/pull/32)
 <!--END_MERGED_PRS-->
 
 <h3 align="left">Stars</h3>
